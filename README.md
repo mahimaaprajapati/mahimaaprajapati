@@ -1,4 +1,4 @@
-# Hi there, I'm MahimaA Prajapati! 👋
+# Hi there, I'm Mahimaa Prajapati! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
