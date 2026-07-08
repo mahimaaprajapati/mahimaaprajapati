@@ -125,11 +125,6 @@ Loading...
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahimaaprajapati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahimaaprajapati&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=mahimaaprajapati&theme=github-dark&hide_border=true" />
 </p>
 
