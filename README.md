@@ -3,9 +3,9 @@ const mahimaa = {
     role: "Computer Science Undergraduate",
     location: "India",
 
-    building: [
-        "AI",
-        "Full-Stack Applications",
+    interests: [
+        "Software Engineering",
+        "Artificial Intelligence",
         "Robotics"
     ],
 
@@ -15,32 +15,32 @@ const mahimaa = {
         "AI Engineering"
     ],
 
-    philosophy: "Build first. Learn forever."
+    philosophy: "Build. Learn. Repeat."
 };
 ```
 
 ---
 
-## Projects
+## About
 
-🚀 **VyomBot**  
-Autonomous lunar habitat rover built using **ROS2, RTAB-Map, Nav2, Gazebo and YOLO**.
+I'm a Computer Science undergraduate who enjoys building software that solves real-world problems.
 
-⛏️ **MineGuard**  
-AI-powered geospatial mining hazard prediction using **TensorFlow, Google Earth Engine and GIS**.
+Over the past few years, I've explored **full-stack development, artificial intelligence, machine learning, and robotics** through hackathons, research, and personal projects. I enjoy understanding how systems work, experimenting with new technologies, and continuously improving as an engineer.
 
-💼 **PlaceMe**  
-Full-stack campus recruitment platform with recruiter CRM, ATS resume builder and AI chatbot.
-
-🌌 **Whispers of Universe**  
-Interactive astronomy platform built with **Python** and **Streamlit**.
-
-🤖 **MahimaaAI**  
-A personal AI assistant integrated into my portfolio with conversational memory and an animated avatar.
+Outside of coding, you'll usually find me planning the next idea, reading about technology, or trying to understand *why* something works before jumping into *how* to build it.
 
 ---
 
-## Tech Stack
+## Currently
+
+- 📚 Strengthening Computer Science fundamentals
+- ⚙️ Building AI-powered applications
+- 🤖 Exploring robotics and autonomous systems
+- 💡 Learning something new every day
+
+---
+
+## Technologies I Work With
 
 **Languages**
 
@@ -52,7 +52,7 @@ A personal AI assistant integrated into my portfolio with conversational memory 
 
 **Backend**
 
-`Flask` `Node.js` `Express`
+`Flask` `Node.js` `Express.js`
 
 **AI / ML**
 
@@ -60,7 +60,7 @@ A personal AI assistant integrated into my portfolio with conversational memory 
 
 **Robotics**
 
-`ROS2` `Gazebo` `RTAB-Map` `Nav2`
+`ROS2` `Gazebo`
 
 **Tools**
 
@@ -68,7 +68,21 @@ A personal AI assistant integrated into my portfolio with conversational memory 
 
 ---
 
-## Git Status
+## GitHub Stats
+
+<!-- Add your GitHub stats cards here -->
+
+---
+
+## Let's Connect
+
+🌐 Portfolio: https://your-portfolio-link
+
+💼 LinkedIn: https://linkedin.com/in/your-link
+
+📧 Email: your-email@example.com
+
+---
 
 ```bash
 $ git status
@@ -82,22 +96,4 @@ Changes not staged for commit:
     improving
 
 no intention of stopping.
-```
-
----
-
-## Connect
-
-🌐 Portfolio → https://your-portfolio-link
-
-💼 LinkedIn → https://linkedin.com/in/your-link
-
-📫 Email → your@email.com
-
----
-
-```bash
-$ exit
-
-see you in the next commit.
 ```
