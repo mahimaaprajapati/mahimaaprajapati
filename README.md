@@ -44,27 +44,31 @@ Outside of coding, you'll usually find me planning the next idea, reading about 
 
 **Languages**
 
-`Python` `C++` `JavaScript` `SQL`
+`Python` `C` `C++` `JavaScript` `SQL`
 
 **Frontend**
 
-`React` `HTML` `CSS`
+`React.js` `HTML5` `CSS3`
 
 **Backend**
 
-`Flask` `Node.js` `Express.js`
+`Flask` `Node.js` `Express.js` `REST APIs`
 
-**AI / ML**
+**AI & Machine Learning**
 
-`TensorFlow` `OpenCV` `Scikit-learn`
+`TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Computer Vision`
 
 **Robotics**
 
-`ROS2` `Gazebo`
+`ROS2` `Gazebo` `RViz` `Nav2` `RTAB-Map SLAM`
 
-**Tools**
+**Geospatial**
 
-`Git` `Linux` `MongoDB` `Google Earth Engine`
+`Google Earth Engine` `QGIS` `DEM/DSM` `InSAR`
+
+**Databases & Tools**
+
+`MongoDB` `Git` `GitHub` `Linux` `Postman` `VS Code` `Jupyter Notebook`
 
 ---
 
