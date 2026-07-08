@@ -1,110 +1,78 @@
-```bash
-mahimaa@github:~$ whoami
+```javascript
+const mahimaa = {
+    role: "Computer Science Undergraduate",
+    location: "India",
 
-Mahimaa Prajapati
+    building: [
+        "AI",
+        "Full-Stack Applications",
+        "Robotics"
+    ],
 
-Computer Science Undergraduate
+    currentlyLearning: [
+        "Computer Science Fundamentals",
+        "System Design",
+        "AI Engineering"
+    ],
 
-building software.
-building AI.
-building robots.
-
-still learning.
-
-Simple.
-
-Memorable.
-
----
-
-# Phase 2 — Current Directory
-
-```md
-```bash
-mahimaa@github:~$ pwd
-/home/mahimaa
-
+    philosophy: "Build first. Learn forever."
+};
+```
 
 ---
 
-# Phase 3 — Projects
+## Projects
 
-```md
-```bash
-mahimaa@github:~$ ls projects
+🚀 **VyomBot**  
+Autonomous lunar habitat rover built using **ROS2, RTAB-Map, Nav2, Gazebo and YOLO**.
 
-📦 MineGuard
-   AI-powered geospatial mining hazard prediction.
+⛏️ **MineGuard**  
+AI-powered geospatial mining hazard prediction using **TensorFlow, Google Earth Engine and GIS**.
 
-📦 VyomBot
-   Autonomous lunar habitat rover using ROS2.
+💼 **PlaceMe**  
+Full-stack campus recruitment platform with recruiter CRM, ATS resume builder and AI chatbot.
 
-📦 PlaceMe
-   Full-stack campus recruitment platform.
+🌌 **Whispers of Universe**  
+Interactive astronomy platform built with **Python** and **Streamlit**.
 
-📦 MahimaaAI
-   Interactive AI-powered digital twin.
-
-📦 WhispersOfUniverse
-   Interactive astronomy exploration platform.
+🤖 **MahimaaAI**  
+A personal AI assistant integrated into my portfolio with conversational memory and an animated avatar.
 
 ---
 
-# Phase 4 — Tech Stack
+## Tech Stack
 
-Instead of badges everywhere.
+**Languages**
 
-```md
-```bash
-mahimaa@github:~$ cat tech_stack.txt
-Languages
+`Python` `C++` `JavaScript` `SQL`
 
-Python • C++ • JavaScript • SQL
+**Frontend**
 
-Frontend
-React • HTML • CSS
+`React` `HTML` `CSS`
 
-Backend
-Flask • Node.js • Express
+**Backend**
 
-AI
-TensorFlow • OpenCV • Scikit-learn
+`Flask` `Node.js` `Express`
 
-Robotics
-ROS2 • Gazebo • RTAB-Map • Nav2
+**AI / ML**
 
-Tools
-Git • Linux • MongoDB • Google Earth Engine
+`TensorFlow` `OpenCV` `Scikit-learn`
 
----
+**Robotics**
 
-# Phase 5 — Currently Learning
+`ROS2` `Gazebo` `RTAB-Map` `Nav2`
 
-```md
-```bash
-mahimaa@github:~$ cat learning.log
-• Computer Science Fundamentals
-• System Design
-• AI Engineering
-• Robotics
+**Tools**
 
-Notice we removed
-
-🌱 Currently Learning
-
-😂
-
-Terminal > emojis.
+`Git` `Linux` `MongoDB` `Google Earth Engine`
 
 ---
 
-# Phase 6 — Dry Humor
+## Git Status
 
-One tiny joke.
-
-```md
 ```bash
-mahimaa@github:~$ sudo apt install motivation
+$ git status
+
 On branch main
 
 Changes not staged for commit:
@@ -112,23 +80,24 @@ Changes not staged for commit:
     learning
     building
     improving
-```bash
-mahimaa@github:~$ ping mahimaa
-Portfolio : ........
-LinkedIn  : ........
-Email     : ........
+
+no intention of stopping.
+```
 
 ---
 
-# Phase 9 — Ending
+## Connect
 
-```md
-```bash
-mahimaa@github:~$ exit
+🌐 Portfolio → https://your-portfolio-link
 
+💼 LinkedIn → https://linkedin.com/in/your-link
+
+📫 Email → your@email.com
 
 ---
 
-# Whole profile
+```bash
+$ exit
 
-
+see you in the next commit.
+```
