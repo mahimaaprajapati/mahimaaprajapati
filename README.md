@@ -125,26 +125,27 @@ Loading...
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahimaaprajapati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimaaprajapati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahimaaprajapati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahimaaprajapati&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=mahimaaprajapati&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=mahimaaprajapati&theme=github-dark&hide_border=true" />
 </p>
+
+---
 
 ---
 ## Connect
 
-🌐 **Portfolio**  
-Coming Soon
+🌐 **Portfolio**
+https://mahimaa-aig.vercel.app/
 
 💼 **LinkedIn**  
-https://linkedin.com/in/YOUR-LINK
+www.linkedin.com/in/mahimaa-prajapati
 
 📧 **Email**  
-YOUR_EMAIL
+prajapatimahimaa@gmail.com
 
 ---
 
