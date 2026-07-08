@@ -72,19 +72,6 @@ Loading...
 ✓ Learning System Design
 ```
 
----
-
-## Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 **MahimaaAI** | AI-powered portfolio assistant with a 3D avatar and conversational interface |
-| ⛏️ **MineGuard** | Intelligent mining hazard prediction using AI and geospatial analysis |
-| 🚁 **ROVER** | AI-based rockfall prediction & monitoring system for open-pit mines |
-| 🌐 **Portfolio** | Interactive developer portfolio built with Three.js and modern web technologies |
-
----
-
 ## Tech Stack
 
 ### Languages
