@@ -126,15 +126,23 @@ Loading...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahimaaprajapati&show_icons=true&theme=github_dark&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=mahimaaprajapati&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimaaprajapati&layout=compact&theme=github_dark&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimaaprajapati&layout=compact&theme=github_dark&hide_border=true"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimaaprajapati&theme=github-dark&hide_border=true"/>
+<img
+  src="https://streak-stats.demolab.com?user=mahimaaprajapati&theme=github-dark&hide_border=true"
+/>
 
 </p>
 
